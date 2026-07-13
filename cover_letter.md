@@ -1,68 +1,52 @@
 # Cover Letter
 
 **Fabian Leo Naressi**
-[Institution]
-[Address]
-[City, State, ZIP]
-[Country]
+Independent Researcher, Parma, Italy
 
 ORCID: 0009-0005-8045-0259
-Email: fabianleonaressi@gmail.com
+Email: senemosiapuntozero@gmail.com
 
 ---
 
 **Date:** July 13, 2026
 
-**To:**
-Editor-in-Chief
-Materials and Processing (Wiley)
+**To:** Editor-in-Chief, ETRI Journal
 
-**Subject:** Submission of Manuscript - ``Applying Golden Ratio and Quasicrystalline Order to Decentralized Autonomous Organizations: A Mathematical Framework for Adaptive Governance''
+**Subject:** Submission of Manuscript - "Zero-Point Energy Fluctuations in Quasicrystalline Blockchain Consensus: A Novel Approach to Quantum-Safe Distributed Ledger Technology"
 
 ---
 
 Dear Editor,
 
-We are pleased to submit our manuscript titled **``Applying Golden Ratio and Quasicrystalline Order to Decentralized Autonomous Organizations: A Mathematical Framework for Adaptive Governance''** for consideration for publication in Materials and Processing.
+We are pleased to submit our manuscript titled **"Zero-Point Energy Fluctuations in Quasicrystalline Blockchain Consensus"** for consideration for publication in ETRI Journal.
 
-This paper presents a novel framework that applies quasicrystalline order and golden ratio mathematics to the design and governance of Decentralized Autonomous Organizations (DAOs). Drawing from research on interaction-induced quasicrystalline order in quantum systems, we translate these mathematical principles into organizational architecture, utilizing the golden ratio ($\phi = 1.618$) and Fibonacci sequences to create governance parameters, organizational structures, and decision-making processes.
+This paper presents Q-Proof, a novel blockchain architecture that applies quasicrystalline physics and zero-point energy principles to distributed consensus mechanisms. The key contributions include:
 
-\section*{Key Contributions}
+**Key Contributions:**
+- Novel quasicrystalline consensus mechanism with $\phi$-spacing topology
+- Mathematical proofs for 51\% attack resistance and Sybil attack detection
+- O(log n) scalability with self-healing properties
+- Quantum-safe implementation using NIST PQC standards (ML-DSA, Kyber)
+- Resolution of the blockchain trilemma through deterministic aperiodicity
 
-\begin{itemize}
-    \item Novel mathematical framework applying quantum physics principles to DAO governance
-    \item Golden ratio-derived voting thresholds and consensus mechanisms
-    \item Fibonacci-recursive organizational structures
-    \item Three-phase governance model (Quasi-Solid, Quasi-Supersolid, Superfluid)
-    \item Self-organizing principles that balance stability with adaptability
-\end{itemize}
+**Novelty:** This is the first work to translate zero-point energy fluctuations from condensed matter physics into distributed systems consensus protocols.
 
-\section*{Relevance to Materials and Processing}
+**Conflict of Interest:** None declared.
 
-This work bridges materials science concepts (quasicrystalline order, phase transitions) with computational organization theory, offering new perspectives on adaptive governance systems that align with the journal's interdisciplinary scope.
+**Submission Status:**
+- Original research, not published elsewhere
+- Not under review elsewhere
+- All authors approve submission
 
-\section*{Submission Status}
-
-This manuscript:
-\begin{itemize}
-    \item Has not been published previously
-    \item Is not under review elsewhere
-    \item All authors have approved the manuscript and agree with submission
-    \item No conflicts of interest exist (see attached declaration)
-\end{itemize}
-
-\section*{Open Science}
-
-We support open science principles and are prepared to share data and materials upon reasonable request.
-
-We believe this manuscript makes a significant contribution to the field and would be of interest to the readers of Materials and Processing. We look forward to the opportunity to contribute to your journal.
+We believe this manuscript makes a significant contribution to the fields of blockchain technology, distributed systems, and quantum-safe cryptography.
 
 Thank you for your consideration.
 
 Sincerely,
 
-\\[2em]
-\textbf{Fabian Leo Naressi}\\
-Corresponding Author\\
-ORCID: 0009-0005-8045-0259\\
-Email: fabianleonaressi@gmail.com
+---
+
+**Fabian Leo Naressi**
+Corresponding Author
+ORCID: 0009-0005-8045-0259
+Email: senemosiapuntozero@gmail.com

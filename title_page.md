@@ -4,41 +4,37 @@
 
 ## Title
 
-**Applying Golden Ratio and Quasicrystalline Order to Decentralized Autonomous Organizations: A Mathematical Framework for Adaptive Governance**
+**Zero-Point Energy Fluctuations in Quasicrystalline Blockchain Consensus: A Novel Approach to Quantum-Safe Distributed Ledger Technology**
 
 ---
 
 ## Author Information
 
-**Fabian Leo Naressi**$^{1,2}$
+**Fabian Leo Naressi**$^{1}$
 
-- $^{1}$Department of Computer Science, University Name, City, Country
-- $^{2}$Department of Mathematics, University Name, City, Country
-
-**Email:** fabianleonaressi@gmail.com
-
-**ORCID:** 0009-0005-8045-0259
+- $^{1}$Independent Researcher, Parma, Italy
+- Email: senemosiapuntozero@gmail.com
+- **ORCID:** 0009-0005-8045-0259
 
 ---
 
 ## Corresponding Author
 
 **Fabian Leo Naressi**
-
-- **Email:** fabianleonaressi@gmail.com
-- **ORCID:** 0009-0005-8045-0259
+- Email: senemosiapuntozero@gmail.com
+- ORCID: 0009-0005-8045-0259
 
 ---
 
 ## Acknowledgments
 
-The author acknowledges no additional contributors, financial support, or material assistance beyond what is described in this manuscript.
+This research was conducted independently. No funding or institutional support was received.
 
 ---
 
 ## Conflict of Interest Statement
 
-The author declares no conflicts of interest, financial or otherwise, that could have influenced the research or preparation of this manuscript.
+**The author declares no conflicts of interest, financial or otherwise, that could have influenced the research or preparation of this manuscript.**
 
 ---
 
@@ -50,12 +46,16 @@ This work has not been formally presented at any scientific meeting or conferenc
 
 ## Financial Support
 
-No financial support was received for this investigation or manuscript development.
+No financial support was received for this investigation.
 
 ---
 
 **Date:** July 13, 2026
 
 **Status:** Original research manuscript
+
+**Paper Version:** 1.0
+
+**Classification:** Open Access
 
 ---
