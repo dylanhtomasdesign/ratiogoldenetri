@@ -1,16 +1,17 @@
 # Cover Letter
 
-**[Author Name]**
+**Fabian Leo Naressi**
 [Institution]
 [Address]
 [City, State, ZIP]
 [Country]
 
-[Email] | [Phone]
+ORCID: 0009-0005-8045-0259
+Email: fabianleonaressi@gmail.com
 
 ---
 
-**Date:** [Date]
+**Date:** July 13, 2026
 
 **To:**
 Editor-in-Chief
@@ -61,23 +62,7 @@ Thank you for your consideration.
 Sincerely,
 
 \\[2em]
-\textbf{[Author Name]}\\
+\textbf{Fabian Leo Naressi}\\
 Corresponding Author\\
-[Institution]\\
-[Email]
-
----
-
-\section*{Suggested Reviewers}
-
-We suggest the following potential reviewers (please provide contact information as appropriate):
-
-\begin{enumerate}
-    \item \textbf{[Name]} - [Institution] - [Email] - Expert in [area]
-    \item \textbf{[Name]} - [Institution] - [Email] - Expert in [area]
-    \item \textbf{[Name]} - [Institution] - [Email] - Expert in [area]
-\end{enumerate}
-
-\section*{Opposition to Reviewers}
-
-We have no opposition to any potential reviewers.
+ORCID: 0009-0005-8045-0259\\
+Email: fabianleonaressi@gmail.com

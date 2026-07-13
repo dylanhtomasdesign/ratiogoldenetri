@@ -4,19 +4,13 @@
 
 **Manuscript ID:** [To be assigned upon submission]
 
+**ORCID:** 0009-0005-8045-0259
+
 ---
 
 ## Author Contributions
 
-Please describe the contributions of each author using CRediT taxonomy:
-
-\begin{tabular}{ll}
-\textbf{Author Name} & \textbf{Contributions} \\
-\hline
-[Author 1] & Conceptualization, Methodology, Writing - Original Draft \\
-[Author 2] & Validation, Investigation, Writing - Review \& Editing \\
-[Author 3] & Data Curation, Visualization, Software \\
-\end{tabular}
+- **Fabian Leo Naressi** (0009-0005-8045-0259): Conceptualization, Methodology, Writing - Original Draft, Writing - Review \& Editing
 
 *Note: Adjust roles as appropriate (Conceptualization, Methodology, Software, Validation, Investigation, Data Curation, Writing - Original Draft, Writing - Review \& Editing, Visualization, Supervision, Project Administration, Funding Acquisition)*
 
@@ -92,21 +86,15 @@ This work is a theoretical/mathematical framework and did not involve human subj
 
 ## Use of Generative AI and AI-Assisted Technologies
 
-\textbf{Check one:}
+\textbf{Disclosure:} Minor use of AI-assisted writing tools.
 
 \begin{itemize}
-    \item[\textbf{X}] No generative AI or AI-assisted technologies were used in the preparation of this manuscript.
-    
-    \item[$\square$] Generative AI or AI-assisted technologies were used as follows:
+    \item \textbf{Type:} Minor Use (grammar/spell-checking, typographic corrections, stylistic refinements)
+    \item \textbf{Examples:} Standard word processor grammar/spell-check features
+    \item \textbf{Extent:} No AI tools were used for content generation, analysis, or intellectual contributions
 \end{itemize}
 
-\begin{tabular}{ll}
-\textbf{Tool} & \textbf{Use} \\
-\hline
-[Tool Name] & [Purpose] \\
-\end{tabular}
-
-Details: [Describe how AI was used and how content was verified]
+All mathematical frameworks, theoretical developments, and written content represent original work by the author. No disclosure is required for minor use per journal policy.
 
 ---
 
